@@ -1,6 +1,6 @@
 ### Bem vindo/a ao meu perfil👋
 
-#### Olá muito prazer me chamo Thiago  - 🌱 Atualmente estou aprendendo ...
+### Olá muito prazer me chamo Thiago  - 🌱 Atualmente estou aprendendo ...
 
 <div>
 <a href="https://github.com/thiagodallacosta">
