@@ -1,7 +1,6 @@
 ### Bem vindo/a ao meu perfil👋
 
-### Olá muito prazer me chamo Thiago  - 🌱 Atualmente estou aprendendo ...
-
+#### 🌱Prazer me chamo Thiago Costa, tenho 32 anos no momento estou iniciando nova carreira e trajetória profissional, estou cursando programação. Sou uma excelente pessoa tenho boa comunicação, organização, criatividade e estou com disponibilidade para aprender, pois sei o quanto essa oportunidade poderá engrandecer os meus conhecimentos e poderei contribuir assertivamente para a companhia, ocupando a vaga que está disponível. Obrigado. 
 <div>
 <a href="https://github.com/thiagodallacosta">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodallacosta&layout=compact&langs_count=7&theme=dark"/>
