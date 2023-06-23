@@ -1,6 +1,6 @@
 ### Bem vindo/a ao meu perfil👋
 
-### Prazer me chamo Thiago Costa, no momento estou iniciando nova carreira e trajetória profissional, estou cursando programação🌱 Sou uma excelente pessoa tenho boa comunicação, organização, criatividade e estou com disponibilidade para aprender, pois sei o quanto essa oportunidade poderá engrandecer os meus conhecimentos, Obrigado. 
+### Prazer me chamo Thiago Costa, no momento estou iniciando nova carreira e trajetória profissional, estou cursando programação🌱 Sou uma excelente pessoa tenho boa comunicação, organização, criatividade e estou com disponibilidade para aprender, pois sei o quanto essa oportunidade poderá engrandecer os meus conhecimentos. 
 <div>
 <a href="https://github.com/thiagodallacosta">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodallacosta&layout=compact&langs_count=7&theme=dark"/>
